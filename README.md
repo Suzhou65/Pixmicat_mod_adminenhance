@@ -65,7 +65,7 @@ Pixmicat! Imageboard System, PIO 8th.Release.3 or Higher
 
 ## Purpose of Development 
 跟智障還有鬧板廚講理是沒用的這點聰明人都知道，所以這種模組是必要的  
-![ScreenShot](https://github.takahashi65.info/lib_img/github_crazy_delphin.gif)
+![ScreenShot](https://github.takahashi65.info/lib_img/github_meme_crazy_delphin.webp)
 
 ## License
 General Public License -3.0
