@@ -1,7 +1,7 @@
 # Pixmicat Administration Module
 [![php](https://github.takahashi65.info/lib_badge/php-5.3.0.svg)](https://www.php.net/) 
 [![no_maintenance](https://github.takahashi65.info/lib_badge/no_maintenance.svg)](https://github.com/potch/unmaintained.tech)
-[![Size](https://github-size-badge.herokuapp.com/Suzhou65/Pixmicat_mod_adminenhance.svg)](https://github.com/axetroy/github-size-badge)  
+[![Size](https://img.shields.io/github/repo-size/Suzhou65/Pixmicat_mod_adminenhance)](https://shields.io/category/size)
 
 針對 Pixmicat！ 圖咪貓貼圖版程式的增強型管理套件  
 
